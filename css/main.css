@@ -1,0 +1,33 @@
+ص:root {
+    --main-color: #4B6694;
+    --light: #1468cd;
+    --dark: #151c2e;
+    --back-color: #fff;
+}
+
+.container {
+    width: 60%;
+}
+
+
+/* Start Navbar Style */
+
+
+/* Start Brand Logo */
+
+nav.navbar>a.navbar-brand>h2>span {
+    color: var(--main-color);
+}
+
+nav.navbar>a.navbar-brand>h2>i {
+    color: red
+}
+
+
+/* End Brand Logo */
+
+
+/* Start Navbar Links  */
+
+
+/* End Navbar Link */
