@@ -1,4 +1,4 @@
-ص:root {
+:root {
     --main-color: #4B6694;
     --light: #1468cd;
     --dark: #151c2e;
@@ -31,3 +31,17 @@ nav.navbar>a.navbar-brand>h2>i {
 
 
 /* End Navbar Link */
+
+
+/* Start Main Home section */
+
+main>div.container>div.first-Post {
+    display: flex
+}
+
+main>div.container>div.first-Post>div.left-part {
+    display: block
+}
+
+
+/* End Main Home Section */
